@@ -20,12 +20,17 @@
 
 </div>
 
-I'm a creative person who is currently getting into programming and technology.
+## About Me
 
-Right now, I'm learning Python, exploring Linux and Bash, and using AI to help me understand code and turn ideas into small experiments.
-Outside of coding, I spend a lot of time designing things. I enjoy taking an idea and turning it into something visual.
+I’ve always liked messing around with computers and figuring out how things work.
 
-My goal is simple: **learn, create, and eventually bring my own ideas to life through code.**
+I’ve been using **Linux for quite a while**, and **Arch Linux was the first distro I ever used**. Lately, I’ve been getting more into programming and learning **Python as my first programming language** (so expect unfinished projects, random ideas, and errors) while also playing around with Rasberrypi and Hardware.
+
+A big part of what I do is creative. I really enjoy **drawing and designing**!
+
+
+**Basically, I like computers, I like creating things, and I like figuring stuff out.**
+
 ---
 
 <div align="center">
