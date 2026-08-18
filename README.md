@@ -5,7 +5,7 @@
 ### Learning to code. Creating things. Exploring what's possible.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,arch,windows,canva" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,raspberrypi" />
 </p>
 
 </div>
