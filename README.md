@@ -1,8 +1,8 @@
 <div align="center">
 
-# **declose**
+# **Hi I am declose**
 
-### Learning to code. Creating things. Exploring what's possible.
+### Learning. Creating. Exploring.
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,bash,linux,raspberrypi" />
@@ -16,11 +16,10 @@
 
 <div align="center">
 
-## About
+### About Me
 
-</div>
+<br>
 
-## About Me
 
 I’ve always liked messing around with computers and figuring out how things work.
 
@@ -36,9 +35,10 @@ A big part of what I do is creative. I really enjoy **drawing and designing**!
 <div align="center">
 
 
-## What I Use
+### What I Use
 
 <br>
+<table>
 
 <table>
 <tr>
@@ -81,7 +81,7 @@ A big part of what I do is creative. I really enjoy **drawing and designing**!
 <div align="center">
 
 
-## My Direction
+### My Direction
 
 <br>
 
